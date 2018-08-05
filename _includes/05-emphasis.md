@@ -1,7 +1,9 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
 
-* 1. **study**
-* 2. work
-* 3. *entertain*
-  * 1. read boooks
-  * 2. watch movies
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_I **can** combine them_
