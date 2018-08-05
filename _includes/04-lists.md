@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+
+* 1. **study**
+* 2. work
+* 3. *entertain*
+  * 1. read boooks
+  * 2. watch movies
