@@ -4,6 +4,12 @@ layout: default
 
 {% include 01-name.md %}
 
-# Hi
+<br>
 
-## This is my space
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
+
